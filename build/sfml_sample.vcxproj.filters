@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\src\Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\src\Circle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\inc\Game.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\inc\Circle.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\tamat\OneDrive\Desktop\lections\laba4\sfml_sample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{38C04789-C137-3BA0-BC86-57B81058DCF5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF97B3E8-B52A-3035-8E0A-89363014BE86}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
